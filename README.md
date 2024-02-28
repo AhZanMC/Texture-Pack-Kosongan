@@ -73,7 +73,11 @@ Kalo mau download, [klik disini](https://www.mediafire.com/file/rvzsojsvl0tmove/
 Selamat membuat dan mengembangkan Texture buatanmu sendiri dan semoga berhasil :)
 
 Creator : AhZanMC
+
 Youtube : [Klik Disini](https://www.youtube.com/c/AhZanMC)
+
 Instagram : [Klik Disini](https://www.instagram.com/ahzanmc/)
+
 Github : [Klik Disini](https://github.com/AhZanMC)
+
 Website : [Klik Disini](https://ahzanmc.my.id/)
