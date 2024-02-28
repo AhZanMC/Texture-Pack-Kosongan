@@ -1,0 +1,44 @@
+INFO TEXTURE INI
+=================================
+Texture : Texture Pack Kosongan
+=================================
+PERHATIAN
+
+Texture Pack Kosongan adalah texture pack mentahan yang bisa kalian buat untuk membuat texture pack apapun,nah karena isi texture pack ini kosong
+jadi kalian harus menambahkan texture-texture block,item,gui,dll dari luar ke sini
+
+Semoga ini bisa bermanfaat kepada kalian semua
+
+SUBSCRIBE AHZANMC YA......
+Link:
+www.youtube.com/c/ahzanmc
+
+Support AhZanMC dengan cara donate (yang penting ikhlas hehehe)
+https://saweria.co/AhZanMC
+
+
+Selamat Bermain dan Semoga kamu suka texture ini.
+=================================
+Sekian terima kasih
+
+//NOTE:
+HARAP BACA INI SEBELUM KAMU MEMBUAT/MEMODIFIKASI TEXTURE PACK
+
+1. Jangan lupa edit manifest.json terlebih dahulu,mulai dari:
+- name (nama texturemu)
+- description (deskripsi texturemu)
+- version (versi texture pack,opsional)
+- min_engine_version (Versi Minecraft Yang Dibutuhkan Agar Texture Packmu Work/bisa dipakai)
+- UUID (Wajib Diganti Dulu)
+
+2. Jangan lupa ubah UUID yang ada di manifest.json,supaya tidak terjadi sesuatu yang tidak kamu inginkan seperti error karena terdeteksi "duplikated pack"
+kamu bisa mencari kode dan mengganti kode uuid dengan mudah lewat webiste yang dibawah ini
+
+>> Klik ini
+https://www.uuidgenerator.net/
+
+3. Karena texture ini kosong,jadi kamu harus menambahkan texture-texture dari luar ke dalam texture ini
+
+4. Jangan lupa subscribe AhZanMC :V
+
+Semoga berhasil :)
