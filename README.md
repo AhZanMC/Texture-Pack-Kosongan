@@ -66,7 +66,9 @@ Texture ini dibuat untuk mempermudah kalian dalam proses pembuatan dan pengemban
 6. Jangan lupa subscribe AhZanMC :V
 
 ### C.) Download
-Kalo mau download, [klik disini](https://www.mediafire.com/file/rvzsojsvl0tmove/Texture_Pack_Kosongan.zip/file)
+Kalo mau download, bisa klik dibawah ini
+Link Mediafire : [klik disini](https://www.mediafire.com/file/rvzsojsvl0tmove/Texture_Pack_Kosongan.zip/file)
+Link Github : [klik disini](https://github.com/AhZanMC/Texture-Pack-Kosongan/archive/refs/tags/Templates.zip)
 
 ### E.) Penutup
 
